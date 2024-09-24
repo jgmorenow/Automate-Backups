@@ -50,4 +50,31 @@ Shutil module is used to copy data from one file to another. Os and sys modules 
 <img src="https://i.imgur.com/jMNW209.png" height="50%" width="75%" />
 </p>
 
+- <b>Step 5:</b> <b>Now, we can use the following cases to test the conditions. 
+
+If we provide all the necessary inputs, such as source file name, source file path, destination file name, and destination file path. 
+
+</b>
+
+<p align="center">
+<img src="https://i.imgur.com/5o4b2Me.png" height="50%" width="75%" />
+     
+</p>
+
+<b>If the destination file name is None, which indicates we did not specify a destination file name, we will use the following condition. 
+</b>
+
+<p align="center">
+<img src="https://i.imgur.com/S0dkCd1.png" height="50%" width="75%" />
+     
+</p>
+
+<b>If we enter an empty string with one or more spaces. 
+</b>
+
+<p align="center">
+<img src="https://i.imgur.com/RyWp003.png" height="50%" width="75%" />
+     
+</p>
+
 
