@@ -77,4 +77,26 @@ If we provide all the necessary inputs, such as source file name, source file pa
      
 </p>
 
+<b>If we input the backup copy’s name, just concatenate the destination directory, date, and destination file name to create the output file name.
+</b>
 
+<p align="center">
+<img src="https://i.imgur.com/4Ot91nw.png" height="50%" width="75%" />
+     
+</p>
+
+
+- <b>Step 6:</b> <b>Lastly, we need to use the shutil function to copy the file to the destination.
+</b>
+
+<p align="center">
+<img src="https://i.imgur.com/I4e1Bdw.png" height="50%" width="75%" />
+     
+</p>
+
+<b>OUTPUT</b>
+
+<p align="center">
+<img src="https://i.imgur.com/Z36zXse.png" height="50%" width="75%" />
+     
+</p>
