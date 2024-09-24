@@ -32,3 +32,22 @@ Shutil module is used to copy data from one file to another. Os and sys modules 
 <p align="center">
 <img src="https://i.imgur.com/59FmTLF.png" height="50%" width="75%" />
 </p>
+
+- <b>However, if we don’t, and our file is stored in the same directory as our current Python script, we can use the os module to determine the current path of the file and create the source directory by combining the path provided by the os module with the source file name. 
+</b>
+
+<p align="center">
+<img src="https://i.imgur.com/r7RHFHm.png" height="50%" width="75%" />
+</p>
+
+- <b>Step 4:</b> <b>If we do not specify the source file name, we must return a file does not exist error.
+</b>
+
+<p align="center">
+<img src="https://i.imgur.com/bsBPj1q.png" height="50%" width="75%" />
+</p>
+<p align="center">
+<img src="https://i.imgur.com/jMNW209.png" height="50%" width="75%" />
+</p>
+
+
